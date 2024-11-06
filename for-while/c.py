@@ -4,3 +4,9 @@
 # Pistas:
 
 # Comienza desde 2 y usa un contador que aumente de 2 en 2 para imprimir solo los números pares.
+
+i = 2
+
+while i <= 100:
+    print(i)
+    i += 2
