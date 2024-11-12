@@ -3,5 +3,11 @@
 
 lista1 = [1, 2, 3]
 lista2 = [1, 2, 3, 4, 5]
-
 # Salida esperada: Lista1 es un subconjunto de Lista2.
+
+es_subconjunto = set(lista1).issubset(set(lista2))
+
+if es_subconjunto:
+    print("Lista1 es un subconjunto de Lista2.")
+else:
+    print("Lista1 no es un subconjunto de Lista2.")
