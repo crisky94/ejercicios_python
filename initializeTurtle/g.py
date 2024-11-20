@@ -1,0 +1,1 @@
+# g. Escribe una función mandala que sea capaz de dibujar n polígonos, usando colores de la siguiente lista.

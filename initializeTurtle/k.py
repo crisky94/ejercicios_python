@@ -1,0 +1,1 @@
+# k. Escribe una función que dibuje una espiral cuadrada.
