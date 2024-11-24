@@ -1,0 +1,1 @@
+# h. Crea una clase Curso que gestione una lista de estudiantes y permita calcular el promedio del curso. Utiliza la clase Estudiante del ejercicio f.
