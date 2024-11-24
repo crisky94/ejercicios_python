@@ -1,0 +1,1 @@
+# d. Escribe una función que dibuje un polígono de cualquier cantidad de lados, dado el número de lados y el tamaño del lado.

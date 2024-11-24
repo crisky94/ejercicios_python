@@ -1,0 +1,1 @@
+# g. Crea una clase Libro con atributos como título y autor, y una clase Biblioteca que gestione una lista de libros. Agrega métodos para añadir libros, eliminar libros por título y obtener todos los libros.

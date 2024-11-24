@@ -1,0 +1,1 @@
+# f. Crea una clase Estudiante que almacene el nombre y las calificaciones de un estudiante. Luego, crea una lista de objetos Estudiante y calcula el promedio de calificaciones de todos los estudiantes.
