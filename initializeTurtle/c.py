@@ -1,1 +1,0 @@
-# c. Escribe una función que dibuje 5 cuadrados girando 360/5 cada vez.
