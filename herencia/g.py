@@ -1,0 +1,1 @@
+#### g. **Sistema de pagos avanzado:** Crea subclases de `MetodoDePago` con validaciones privadas para asegurarte de que los datos del usuario sean correctos.

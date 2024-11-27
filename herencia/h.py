@@ -1,0 +1,1 @@
+# h. Registro de dispositivos: Crea una clase Dispositivo con atributos protegidos. Implementa subclases como Laptop y Tablet que amplíen su funcionalidad.

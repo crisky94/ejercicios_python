@@ -1,0 +1,1 @@
+#### f. **Animales abstractos:** Crea una clase `Animal` que sea abstracta y define subclases como `Perro` y `Pez`, cada una con su propio método `hablar`.

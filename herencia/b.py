@@ -1,0 +1,1 @@
+# b. Gestión de una biblioteca: Crea una clase base Material con atributos comunes (título, autor) y métodos como informacion. Luego, define subclases Libro, Revista y DVD.
