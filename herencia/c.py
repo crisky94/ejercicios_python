@@ -9,11 +9,13 @@ class Usuario:
 
 class UsuarioRegular(Usuario):
     def descuento(self, precio):
+        super().__init__(precio)
 
         return precio
 
 class UsuarioPremium(Usuario):
     def descuento(self, precio):
+        super().__init__(precio)
 
         return precio * 0.8
 
