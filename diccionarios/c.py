@@ -5,3 +5,11 @@ calificaciones = {'Ana': 10, 'Juan': 8, 'Carlos': 10, 'María': 7}
 estudiantes = {}
 
 # Salida esperada: {10: ['Ana', 'Carlos'], 8: ['Juan'], 7: ['María']}
+
+for nombre, calificaciones in calificaciones.items():
+    if calificaciones not in estudiantes:
+        estudiantes[calificaciones] = []
+
+    estudiantes[calificaciones].append(nombre)
+
+print(estudiantes)

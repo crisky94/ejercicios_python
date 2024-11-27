@@ -1,1 +1,0 @@
-# f. Escribe una función que utilizando la función anterior, dibuje 8 polígonos, girando 45 grados a la derecha por cada polígono.
