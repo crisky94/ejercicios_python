@@ -1,0 +1,1 @@
+#### e. **Inventario de vehículos:** Crea una clase base `Vehiculo` con métodos para obtener detalles y atributos protegidos. Define subclases como `Auto` y `Motocicleta`.
